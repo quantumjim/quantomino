@@ -6,3 +6,4 @@ dependencies:
 - ipywidgets
 - pip:
   - qiskit
+  - pdflatex
